@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hikaru373/hikaru373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About
+情報工学を専攻する大学生です。  
+Pythonを中心に、Webアプリ開発をしています。
+<br><br>
+## 🛠 Skills
+- Python / SQL / C / C++ / C# / Java / HTML / CSS / JavaScript
+- FastAPI / Jinja2
+- SQLite / Redis
+<br><br>
+## 🚀 Projects
+<br><br>
+### 📊 AtCoder Learning Analyzer
 
-Here are some ideas to get you started:
+AtCoderの提出履歴を分析し、学習を支援するWebアプリです。
+<br><br>
+**Tech Stack**
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Portfolio: URL
