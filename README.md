@@ -11,7 +11,7 @@ Pythonを中心に、Webアプリ開発に取り組んでいます。<br>
 - SQLite / Redis
 <br><br>
 ## 🚀 Projects
-### 📊 AtCoder Learning Analyzer
+### [AtCoder Learning Analyzer](https://github.com/hikaru373/atcoder-learning-analyzer)
 AtCoderのコンテスト履歴を分析し、学習を支援するWebアプリです。
 <br><br><br>
 ## 📜 Certifications
