@@ -2,7 +2,8 @@
 
 ## 👨‍💻 About
 情報工学を専攻する大学生です。  
-Pythonを中心に、Webアプリ開発をしています。
+Pythonを中心に、Webアプリ開発に取り組んでいます。<br>
+[🌐 **ポートフォリオサイト**  ](https://hikaru373.github.io/portfolio/)
 <br><br>
 ## 🛠 Skills
 - Python / SQL / C / C++ / C# / Java / HTML / CSS / JavaScript
@@ -10,16 +11,15 @@ Pythonを中心に、Webアプリ開発をしています。
 - SQLite / Redis
 <br><br>
 ## 🚀 Projects
-<br><br>
 ### 📊 AtCoder Learning Analyzer
-
-AtCoderの提出履歴を分析し、学習を支援するWebアプリです。
+AtCoderのコンテスト履歴を分析し、学習を支援するWebアプリです。
+<br><br><br>
+## 📜 Certifications
+- ITパスポート
+- 基本情報技術者試験
+- 応用情報技術者試験
+- TOEIC IP 755点
 <br><br>
-**Tech Stack**
-- Python
-- FastAPI
-- PostgreSQL
-- Redis
-- Docker
-
-🔗 Portfolio: URL
+## 🏆 Competitive Programming
+- [**AtCoder**](https://atcoder.jp/users/Karusa)： 茶色
+- **paiza**： 最高ランク
