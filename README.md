@@ -21,5 +21,5 @@ AtCoderのコンテスト履歴を分析し、学習を支援するWebアプリ�
 - TOEIC IP 755点
 <br><br>
 ## 🏆 Competitive Programming
-- [**AtCoder**](https://atcoder.jp/users/Karusa)： 茶色
+- [**AtCoder**](https://atcoder.jp/users/Karusa)： 緑
 - **paiza**： 最高ランク
