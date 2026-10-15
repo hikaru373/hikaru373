@@ -17,7 +17,7 @@ Pythonを中心に、Webアプリ開発に取り組んでいます。
 | Platform | Rank / Result |
 | --- | --- |
 | [**AtCoder**](https://atcoder.jp/users/Karusa) Algorithm | 緑（最高パフォーマンス：水色） |
-| [**AtCoder**](https://atcoder.jp/users/Karusa) Heuristic | 緑（最高パフォーマンス：水色） |
+| [**AtCoder**](https://atcoder.jp/users/Karusa?contestType=heuristic) Heuristic | 緑（最高パフォーマンス：水色） |
 | **paiza** | Sランク（最高ランク） |
 | 第七回日本最強プログラマー学生選手権 ～Advance～ | 41位 |
 
